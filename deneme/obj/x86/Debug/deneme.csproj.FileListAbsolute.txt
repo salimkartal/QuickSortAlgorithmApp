@@ -1,0 +1,19 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\deneme\deneme\bin\Debug\deneme.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\deneme\deneme\bin\Debug\deneme.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\deneme\deneme\obj\x86\Debug\deneme.Form1.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\deneme\deneme\obj\x86\Debug\deneme.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\deneme\deneme\obj\x86\Debug\deneme.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2010\Projects\deneme\deneme\obj\x86\Debug\deneme.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\deneme\deneme\obj\x86\Debug\deneme.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\deneme\deneme\obj\x86\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\SALİM\deneme\deneme\obj\x86\Debug\deneme.exe
+C:\Users\lenovo\Desktop\SALİM\deneme\deneme\obj\x86\Debug\deneme.pdb
+C:\Users\lenovo\Desktop\Yeni klasör\dersler\Algoritma Analizi\SALİM\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\lenovo\Desktop\Yeni klasör\dersler\Algoritma Analizi\SALİM\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\lenovo\Desktop\Yeni klasör\dersler\Algoritma Analizi\SALİM\deneme\deneme\obj\x86\Debug\deneme.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Yeni klasör\dersler\Algoritma Analizi\SALİM\deneme\deneme\obj\x86\Debug\deneme.Form1.resources
+C:\Users\lenovo\Desktop\Yeni klasör\dersler\Algoritma Analizi\SALİM\deneme\deneme\obj\x86\Debug\deneme.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Yeni klasör\dersler\Algoritma Analizi\SALİM\deneme\deneme\obj\x86\Debug\deneme.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Yeni klasör\dersler\Algoritma Analizi\SALİM\deneme\deneme\obj\x86\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Yeni klasör\dersler\Algoritma Analizi\SALİM\deneme\deneme\obj\x86\Debug\deneme.exe
+C:\Users\lenovo\Desktop\Yeni klasör\dersler\Algoritma Analizi\SALİM\deneme\deneme\obj\x86\Debug\deneme.pdb
